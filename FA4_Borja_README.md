@@ -1,7 +1,7 @@
 # APM1205: Formative Assessment 4 – Dummy-Variable Regression
 
-**Course:** APM1205 - Applied Regression Analysis / Linear Models  
-**Topic:** Dummy-Variable Regression & Interaction Analysis using Real-World Data  
+**Course:** APM1205 - Applied Regression Analysis
+**Topic:** Dummy-Variable Regression Using Real-World Data  
 **Dataset:** `ggplot2::diamonds`  
 
 ---
@@ -15,8 +15,9 @@ This repository contains the complete reproducible code, visualization outputs, 
 ## Repository Structure
 
 ```text
-├── README.md                  # Project documentation and summary of findings
-├── FA4_Dummy_Regression.R     # Executable R script for all models, tests, and plots
-├── FA4_Dummy_Regression.pdf   # Compiled final report answering Parts A through E
-└── figures/                   # Exported high-resolution visualization figures
-    └── carat_price_by_cut.png # Scatterplot with cut-specific linear trendlines
+.
+├── README.md                  # Project overview, methodology, and summarized results
+├── FA4_Dummy_Regression.R     # Complete, reproducible R script for model fitting and analysis
+├── FA4_Dummy_Regression.pdf   # Completed PDF submission report with formal interpretations
+└── figures/                   # Directory containing generated figures
+    └── price_vs_carat_by_cut.png
